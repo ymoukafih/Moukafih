@@ -1,2 +1,2 @@
 # Moukafih
-Classical machine learning algorithms from scratch using Numpy
+Machine learning algorithms from scratch using Numpy
